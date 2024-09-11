@@ -1,0 +1,1 @@
+# Testing240_SPM_Module_Core-JavaJunitMaven_Gayatri
